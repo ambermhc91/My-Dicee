@@ -9,6 +9,15 @@
     text-align: center;
 }
 
+.refresh {
+    height:150px;
+    width:150px;
+    border-radius: 50%;
+    background-image: url("images/undo.png");
+    background-size: cover; 
+  background-position: center; 
+}
+
 body {
     background-color: #393E46;
 }
@@ -28,9 +37,10 @@ p {
     color: #4ECCA3;
 }
 
-img{
+img {
     width: 80%;
 }
+
 footer {
     margin-top: 5%;
     font-family: 'Indie Flower', cursive;
